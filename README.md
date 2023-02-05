@@ -29,8 +29,6 @@ git clone https://github.com/Abubakarharuna10/artificial_rescuer.git
 
 #### Step 2
 
-Go to the ssd_mobilenet_v2 directory and run the following command line:-
-
 ```cd artificial_rescuer
 
 ```
@@ -47,7 +45,7 @@ Run this file
 
 Now that the project code is ready, you will need to install the actual computer vision code. This project uses Joseph Redmon's Darknet tiny-YOLOv3 detector because of its blazingly-fast object detection speed, and small memory size compatible with the Jetson Nano Dev Kit's 128-core Maxwell GPU.
 
-### Clone the Darknet GitHub repository inside of the jetson-uav GitHub repository cloned in the previous section
+### Clone the Darknet GitHub repository inside of the artificial_rescuer GitHub repository cloned in the previous section
 
 ```
 git clone https://github.com/pjreddie/darknet.git
