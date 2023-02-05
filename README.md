@@ -17,7 +17,7 @@ with a computer vision system that detects the location of people as the vehicle
 of the Jetson Nano Dev Kit will enable fast computer vision algorithms to achieve this task. Joseph Redmon's YOLOv3 algorithm will be used
 to do the actual object-detection (people) in the camera's view While the UAV is flying a waypoint mission using ArduPilot, PX4, or any other autonomous flight control stack, the absolute location of people in the camera view can be calculated based on the altitude, orientation, and GPS location of the UAV.
 
-## Step-by-Step guide for Running the App
+## Step by Step guide for running this project
 
 #### Step 1
 
