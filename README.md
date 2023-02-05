@@ -77,7 +77,6 @@ make
 cp libdarknet.so ..
 ```
 
-##### Install npm
 Luckily, you do not need to spend hours or days training the YOLOv3 detector because I pre-trained the model on a Compute Engine instance on Google's Cloud Platform. The model was trained on the 2017 COCO dataset for around 70 hours using an NVIDIA Tesla V100, and the weights (eagleeye.weights) are saved in the GitHub repository for this project.
 
 If you would like the train the model further, or understand how training YOLOv3 works, I recommend reading this article, as it helped me greatly during the process.
