@@ -37,8 +37,9 @@ git clone https://github.com/Abubakarharuna10/artificial_rescuer.git
 
 Run this file
 
-```./setup
 
+```
+./setup
 ```
 
 ### Darknet Installation
