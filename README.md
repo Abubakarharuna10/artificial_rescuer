@@ -29,9 +29,11 @@ git clone https://github.com/Abubakarharuna10/artificial_rescuer.git
 
 #### Step 2
 
-```cd artificial_rescuer
 
 ```
+cd artificial_rescuer
+```
+
 
 #### Step 3
 
