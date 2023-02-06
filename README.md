@@ -71,7 +71,7 @@ make
 
 ```
 
-#####  If the compilation was successful, there should be a file called libdarknet.so in the Darknet repository. Copy this file to the jetson-uav directory so the script will have access to it.
+#####  If the compilation was successful, there should be a file called libdarknet.so in the Darknet repository. Copy this file to the artificial_rescuer directory so the script will have access to it.
 
 ```
 cp libdarknet.so ..
