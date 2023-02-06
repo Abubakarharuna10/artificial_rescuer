@@ -90,7 +90,7 @@ In order for the code to run as seamlessly as possible, the script needs to be s
 The auto-launch capability will be achieved by setting up a systemd service (eagleeye.service) that runs a bash file (process.sh), which then runs the python script (main.py) and streams the output to a log file (log.txt). It may sound complicated, but only a few simple steps is all it takes to get it up and running!
 
 ##### Step 1
-Modify the second line of process.sh to match where you cloned the jetson-uav GitHub repository. Make sure to only change the path that is shown in bold below, as the other files are relative to this path.
+Modify the second line of process.sh to match where you cloned the artificial_rescuer GitHub repository. Make sure to only change the path that is shown in bold below, as the other files are relative to this path.
 ```
 #!/bin/bash
 cd /home/learner/Desktop/artificial_rescuer && python3 -u main.py > log.txt
